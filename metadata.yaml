@@ -1,0 +1,36 @@
+_repo: Susikoira_45197
+_version: 0.1.0
+alternative_title: White Fang. Finnish
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2014-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45197'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Wolfdogs -- Fiction'
+title: Susikoira
+url: http://www.gutenberg.org/ebooks/45197
